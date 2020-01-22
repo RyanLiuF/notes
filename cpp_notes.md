@@ -84,4 +84,4 @@ you need them.
       or expression is one that would be ill-formed if written using the substituted arguments.
       Only invalid types and expressions in the immediate context of the function type and its
       template parameter types can result in a deduction failure.
-    + 
+    + Implement the copy assignment operator with strong exception safety.
